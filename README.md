@@ -7,6 +7,7 @@
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshots](#screenshots)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -31,6 +32,12 @@ Users should be able to:
 | Desktop Design | Desktop Solution  | 
 |--|--|
 | ![Desktop](./design/desktop-design.jpg)  | ![Desktop](./screenshots/loopstudios-landing-page-desktop.png)  |
+
+### Links
+
+- Solution URL: [FrontendMentor Solution](https://www.frontendmentor.io/solutions/loopstudioslandingpagehtmlcssjswebpack-PdH75Myqi)
+
+- Live Site URL: https://rufi512.github.io/loopstudios-landing-page/
 
 
 ## My Process
